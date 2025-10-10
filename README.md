@@ -1,15 +1,20 @@
-# Hey, I'm Abhay 👋
+# Hey there
 
-I'm a full-stack developer learning and building across web and web3.
+**I'm Abhay** — a full-stack developer who loves building things that actually make sense.
 
-## 🚀 Current Focus
-- Building impactful projects with Next.js + Node.js
-- Exploring Rust & Solana
-- Deep diving into System Design and DSA
+I usually work around the `MERN` stack, but I keep exploring stuff that goes beyond the usual web loop.
 
-## 💻 Projects
-- **EcoSphere** — Hybrid social-civic platform powered by AI + Blockchain  
-- **Scrib-Draw** — Real-time collaborative drawing app  
+I’ve also dabbled in `Rust`, `Python`, and `Solidity`, and I’m currently digging deeper into:
 
-## 🌱 What’s Next
-Trying to blend tech, creativity, and impact — one project at a time.
+- System Design
+- Web3 and Solana
+- AI & ML
+- Distributed Systems
+
+## Writing
+
+If you're getting into full-stack or web3, check out my notes and projects — I try to document things that helped me learn faster.
+
+## My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ts,react,next,nodejs,express,mongodb,rust,solidity,python,tailwind,aws)]()
