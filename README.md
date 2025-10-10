@@ -1,20 +1,22 @@
 # Hey there
 
-**I'm Abhay** — a full-stack developer who loves building things that actually make sense.
+**I'm Abhay** — a full-stack developer trying to turn ideas into things that actually live on the web.
 
-I usually work around the `MERN` stack, but I keep exploring stuff that goes beyond the usual web loop.
+Currently, my go-to stack is `MERN` with `TypeScript` and `Next.js`.  
+Been exploring `Rust` and `C++` lately — trying to get closer to how things really work underneath.
 
-I’ve also dabbled in `Rust`, `Python`, and `Solidity`, and I’m currently digging deeper into:
+## Currently I’m Learning
 
-- System Design
-- Web3 and Solana
-- AI & ML
-- Distributed Systems
-
-## Writing
-
-If you're getting into full-stack or web3, check out my notes and projects — I try to document things that helped me learn faster.
+- Advanced backend & system design  
+- Web3 and Solana  
+- Low-level programming with Rust & C++  
+- Scalability and clean architecture  
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,react,next,nodejs,express,mongodb,rust,solidity,python,tailwind,aws)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,next,react,nodejs,express,mongodb,rust,cpp,solidity,tailwind,docker,threejs)]()
+
+---
+
+not chasing perfection — just building, learning, and figuring things out one project at a time.  
+→ [Portfolio](https://abhay-kappa.vercel.app/)
