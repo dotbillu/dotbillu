@@ -14,7 +14,7 @@ Been exploring `Rust` and `C++` lately — trying to get closer to how things re
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=ts,next,react,nodejs,express,mongodb,rust,cpp,solidity,tailwind,docker,threejs)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,next,react,nodejs,express,mongodb,rust,cpp,solidity,tailwind,docker,threejs,neovim)]()
 
 ---
 
