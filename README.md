@@ -3,7 +3,7 @@
 **I'm Abhay** — a full-stack developer trying to turn ideas into things that actually live on the web.
 
 Currently, my go-to stack is `MERN` with `TypeScript` and `Next.js`.  
-Been exploring `Rust` and `C++` lately — trying to get closer to how things really work underneath.
+Been exploring `Rust` lately — trying to get closer to how things really work underneath.
 
 ## Currently I’m Learning
 
