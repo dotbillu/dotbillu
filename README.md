@@ -19,4 +19,4 @@ Been exploring `Rust` lately — trying to get closer to how things really work 
 ---
 
 not chasing perfection — just building, learning, and figuring things out one project at a time.  
-→ [Portfolio](https://abhay-kappa.vercel.app/)
+→ [Portfolio](dotbillu.vercel.app)
