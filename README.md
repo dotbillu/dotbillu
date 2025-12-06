@@ -19,4 +19,4 @@ Been exploring `Rust` lately — trying to get closer to how things really work 
 ---
 
 not chasing perfection — just building, learning, and figuring things out one project at a time.  
-→ [Portfolio](https://dotbillu.vercel.app) | [dotfiles](https://github.com/dotbillu) 
+→ [Portfolio](https://dotbillu.vercel.app) | [Dotfiles](https://github.com/dotbillu) 
