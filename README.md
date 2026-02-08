@@ -17,4 +17,4 @@ Currently, my go-to stack is `MERN` with `TypeScript` and `Next.js`.
 ---
 
 not chasing perfection — just building, learning, and figuring things out one project at a time.  
-→ [Portfolio](https://dotbillu.vercel.app) | [Dotfiles](https://github.com/dotbillu) 
+→ [Portfolio](https://dotbillu.in) | [Dotfiles](https://github.com/dotbillu) 
